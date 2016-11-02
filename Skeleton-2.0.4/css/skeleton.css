@@ -125,7 +125,13 @@ body {
   line-height: 1.6;
   font-weight: 400;
   font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #222; }
+  color: #222;
+  background-image: url("backgrounds/paper.jpg");
+  background-color: #000000;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  background-position: center; 
+  background-repeat: no-repeat; }
 
 
 /* Typography
